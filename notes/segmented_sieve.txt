@@ -1,0 +1,5 @@
+find prime number upto sqrt(r)
+	use sieve 
+
+then apply sieve like for l to r similiar concept but use only primes
+
