@@ -1,0 +1,11 @@
+If p is a prime number
+ϕ(p)=p−1.
+ϕ(p^k)=p^k−p^(k−1).
+ϕ(ab)=ϕ(a)⋅ϕ(b)⋅(d/ϕ(d)) d=gcd(a,b)
+ϕ(n)=n⋅(1−1/p1)⋅(1−1/p2)⋯(1−1/pk)
+      where n=p1^a1⋅p2^a2⋯pk^ak
+
+EULER THEOREM
+a^ϕ(m)≡1  (modm)
+a^n≡a^(n modϕ(m))    (modm)
+
